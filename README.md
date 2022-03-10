@@ -14,7 +14,7 @@ git status
 git add -A  
 git commit -m "#1 update"  
 git push -u origin branch_name  
-git pull origin master  
+git pull origin main  
 git checkout main  
 git pull  
 git branch -D fix  
