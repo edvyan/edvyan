@@ -16,5 +16,7 @@ git commit -m "#1 update"
 git push -u origin branch_name
 git pull origin master
 git checkout main
+git pull
+git branch -D fix
 
 -u flag is used to set origin as the upstream remote in your git config.
